@@ -1,6 +1,6 @@
 ## CVIPS: Connected Vision for Increased Pedestrian Safety
 
-
+![alt text](https://github.com/DerejeCShenkut/CVIPS/figs/Scenario1.png)
 ### CVIPS
 
 
